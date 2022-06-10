@@ -12,11 +12,25 @@ List
   - [testify](https://github.com/stretchr/testify) - testing and mocking
   - [go-colly](https://go-colly.org/) - elegant scraper
   - [generic](https://github.com/zyedidia/generic) - generic data structures
+
   
 ## Web Assembly
 
-## 3D
+- [wazero](https://github.com/tetratelabs/wazero) - WASM runtime [Go]
 
+## 3D / Math
+
+- [gltf](https://github.com/qmuntal/gltf) - GLTF encoding library
+
+## Procedural Content Genration
+
+- [dngn](https://github.com/SolarLune/dngn) - random map generator [Go]
+- [Hexago](https://github.com/SHA65536/Hexago) - hexagonal grid [Go]
+- [Procedural World](https://github.com/emqk/ProceduralWorld) - world generator [Unity]
+
+# Game development
+
+- [godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - Godot dialogue mananger
 
 ## self-hosted
 
