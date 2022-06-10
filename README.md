@@ -11,6 +11,7 @@ List
   - [hermes](https://github.com/matcornic/hermes) - predefined templates for email sending
   - [testify](https://github.com/stretchr/testify) - testing and mocking
   - [go-colly](https://go-colly.org/) - elegant scraper
+  - [generic](https://github.com/zyedidia/generic) - generic data structures
   
 ## Web Assembly
 
