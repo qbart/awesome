@@ -28,7 +28,7 @@ List
 - [Hexago](https://github.com/SHA65536/Hexago) - hexagonal grid [Go]
 - [Procedural World](https://github.com/emqk/ProceduralWorld) - world generator [Unity]
 
-# Game development
+## Game development
 
 - [godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - Godot dialogue mananger
 
