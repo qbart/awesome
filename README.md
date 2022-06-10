@@ -19,6 +19,8 @@ List
 
 ## self-hosted
 
+- [statusfy](https://github.com/juliomrqz/statusfy) - status page
+
 
 ## Cloud
 
